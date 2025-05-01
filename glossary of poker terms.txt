@@ -1,0 +1,42 @@
+TEXAS HOLD 'EM is a poker game in which each player gets two pocket cards, while five community cards are dealt face up on the table.
+
+--- Types of Cards --- 
+
+COMMUNITY CARDS refer to the cards placed on the table after betting.
+POCKET CARDS refer to the cards the player is dealt at the beginning of every round.
+FLOP refers to the first three COMMUNITY CARDS that are placed in TEXAS HOLD 'EM.
+TURN refers to the fourth COMMUNITY CARD and the sixth card dealt in TEXAS HOLD 'EM.
+RIVER refers to the fifth COMMUNITY CARD, the seventh and final card dealt in TEXAS HOLD 'EM.
+
+--- Player Choices ---
+
+FOLD is when a player chooses to abandon their hand to the deck.
+RAISE is to increase the the amount of the bet (if a bet has been opened).
+ALL-IN is when a player chooses to bet all their money.
+CHECK is a decision a player can make if no one has decided to open a bet before this point. Akin to calling a bet of £0.
+CALL is to match the current bet. 
+
+--- Bets ---
+
+BLINDS is a forced bet in TEXAS HOLD 'EM that must be posted before you see any cards. There are two types of blinds.
+BIG BLINDS are usually 1/100th of the starting stack. However, here it is 1/10th.
+SMALL BLINDS are usually 1/2 of BIG BLINDS. The player left of the dealer will place a SMALL BLIND. Everyone else must put match, or raise the BIG BLIND. 
+    Since this mode only has two players, Players 1 and 2 will take turn placing the SMALL BLIND or BIG BLIND  
+
+--- Hand Rankings, sorted from highest to lowest --- 
+
+ROYAL FLUSH consists of an ace, king, queen, jack, and 10 of the same suit. 
+STRAIGHT FLUSH consists of five consecutive cards that are of the same suit.
+FOUR-OF-A-KIND consists of four cards of the same value.
+FULL HOUSE consists of a THREE-OF-A-KIND with a PAIR of a different value.
+FLUSH consists of five cards of the same suit, but not in a consecutive order.
+STRAIGHT consists of five consecutive cards of the same suit. 
+THREE-OF-A-KIND consists of three cards of the same value.
+TWO PAIR consists of two pairs of cards.
+ONE PAIR consists of two cards of the same value.
+HIGH CARD only consists of one high ranking card, when the five cards do not produce any of the above.
+
+--- Stages ---
+SHOWDOWN occurs at the end of every round where players reveal their cards and the winner is determined.
+PRE-FLOP is the stage of the game that takes place after the players receive their POCKET CARDS before the FLOP.
+FLOP is the stage of the game that refers to the first three community cards dealt face-up on the table after the PRE-FLOP betting round  
